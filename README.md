@@ -5,8 +5,10 @@ A Machine Learning project focused on Natural Language Processing (NLP) to class
 ## 📌 Project Overview
 The main goal of this project is to build an end-to-end NLP pipeline. It covers everything from raw text data loading, custom regular expression cleaning, feature extraction using TF-IDF, to model training and evaluation using Logistic Regression.
 
+
+
 ## 📊 Dataset Structure
-The project uses the **Large Movie Review Dataset v1.0** from IMDb, which contains 50,000 highly polar reviews split evenly into:
+The project uses the **IMDb Movie Review Dataset** sourced from [Kaggle](https://www.kaggle.com/datasets/pawankumargunjan/imdb-review), which contains 50,000 highly polar reviews split evenly into:
 * **25,000 reviews for training** (12.5k positive / 12.5k negative)
 * **25,000 reviews for testing** (12.5k positive / 12.5k negative)
 
